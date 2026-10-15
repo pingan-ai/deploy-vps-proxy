@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 代理部署与排障"
+  short_description: "部署 VPS 代理、排查 Shadowrocket，并在保留现有 VPN 时独立验证出口"
+  default_prompt: "请使用 $deploy-vps-proxy 部署或排查我的 VPS 代理，保留现有 VPN，并验证真实出口和客户端连通性。"
